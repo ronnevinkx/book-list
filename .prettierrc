@@ -1,0 +1,8 @@
+{
+	"useTabs": true,
+	"tabWidth": 4,
+	"singleQuote": true,
+	"html.format.wrapAttributes": "force-aligned",
+	"printWidth": 80,
+	"trailingComma": "none"
+}
