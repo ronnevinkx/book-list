@@ -20,7 +20,8 @@ A TypeScript React CRUD app with GraphQL. A Node.js backend provides data throug
 
 1. Clone repo, cd into folder
 2. Install server and client dependencies: `npm i && cd client npm i`
-3. Start both client and server in dev mode: `npm run dev`
+3. Fill in `.env` according to `.env.example`
+4. Start both client and server in dev mode: `npm run dev`
 
 ## Scripts
 
